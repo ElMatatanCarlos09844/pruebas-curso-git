@@ -3,6 +3,19 @@ html{
     color: white;
 }
 
+a{
+  color: orange;
+}
+
+a:hover{
+  color: orangered;
+}
+
+img{
+  max-width: 100%;
+  
+}
+
 #ajerez {
     position: absolute;
     top: 5px;
