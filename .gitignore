@@ -12,4 +12,6 @@ doc/*.txt
 # ignorar todos los archivos terminados en .txt dentro de la carpeta doc
 # y también en sus subcarpetas
 doc/**/*.txt
-🔼 Regresar
+
+#ignorar todos estos archivo que terminen en .exe
+*.exe
